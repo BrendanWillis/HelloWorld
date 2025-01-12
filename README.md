@@ -50,6 +50,4 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [I plan to add a function that can count sheep. The purpose is to allow for an appropriate rest after all the work is done.] First thing here
-* [ ]
-* [ ]
+* [I plan to add a function that can count sheep. The purpose is to allow for an appropriate rest after all the work is done.] 
